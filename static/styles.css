@@ -11,3 +11,10 @@ body {
 #content {
     margin-left: 3em;
 }
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+}
